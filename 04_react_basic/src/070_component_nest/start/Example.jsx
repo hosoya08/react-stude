@@ -7,6 +7,6 @@ const Example = () => <Child />
 ```
 export名前付きとデフォルトの2種類あるが
 1ファイルに１つのコンポーネントを書くのが
-```
 一般的なのでdefaultを使用すれば良い
+```
 export default Example;
